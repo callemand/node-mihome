@@ -1,10 +1,10 @@
 {
-  "name": "node-mihome",
-  "version": "0.0.32",
+  "name": "@lokkye/node-mihome",
+  "version": "0.0.34",
   "description": "Control Mi Home devices, such as Mi Robot Vacuums, Mi Air Purifiers, Mi Smart Home Gateway (Aqara) and more",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maxinminax/node-mihome.git"
+    "url": "git+https://github.com/callemand/node-mihome.git"
   },
   "main": "lib/index.js",
   "directories": {
